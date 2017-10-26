@@ -1,0 +1,12 @@
+[
+{
+	"modid": "tutorial",
+	"name": "Bobuski's Awsome Tutorial mod",
+	"description": "A tutorial mod for Minecraft 1.11",
+	"version": "${version}",
+	"mcversion": "@{mcversion}",
+	"url": "https://github.com/bobouski/Tutorial-1.11",
+	"authors": ["Bobuski"],
+	"credits": "SilentChaos512 for his Tutorial."
+}
+]
